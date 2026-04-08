@@ -1,1 +1,42 @@
-{}
+{
+  "https://www.uniqlo.com/vn/vi/products/E484663-000?colorCode=COL15&sizeCode=SMA004": {
+    "name": "Trang chủ UNIQLO",
+    "selling_price": 0,
+    "compare_price": 0,
+    "on_sale": false,
+    "in_stock": true,
+    "last_checked": "2026-04-08 12:15 UTC"
+  },
+  "https://www.uniqlo.com/vn/vi/products/E485466-000?colorCode=COL08&sizeCode=SMA002": {
+    "name": "Trang chủ UNIQLO",
+    "selling_price": 0,
+    "compare_price": 0,
+    "on_sale": false,
+    "in_stock": true,
+    "last_checked": "2026-04-08 12:15 UTC"
+  },
+  "https://www.uniqlo.com/vn/vi/products/E481633-001?colorCode=COL62&sizeCode=SIZ999": {
+    "name": "Trang chủ UNIQLO",
+    "selling_price": 0,
+    "compare_price": 0,
+    "on_sale": false,
+    "in_stock": true,
+    "last_checked": "2026-04-08 12:15 UTC"
+  },
+  "https://www.uniqlo.com/vn/vi/products/E484905-000?colorCode=COL01&sizeCode=SMA005": {
+    "name": "Trang chủ UNIQLO",
+    "selling_price": 0,
+    "compare_price": 0,
+    "on_sale": false,
+    "in_stock": true,
+    "last_checked": "2026-04-08 12:15 UTC"
+  },
+  "https://www.uniqlo.com/vn/vi/products/E484875-000?colorCode=COL01&sizeCode=SMA005": {
+    "name": "Trang chủ UNIQLO",
+    "selling_price": 0,
+    "compare_price": 0,
+    "on_sale": false,
+    "in_stock": true,
+    "last_checked": "2026-04-08 12:15 UTC"
+  }
+}
